@@ -1,0 +1,7 @@
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\bin\Debug\sumx.exe.config
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\bin\Debug\sumx.exe
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\bin\Debug\sumx.pdb
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\obj\Debug\sumx.csprojAssemblyReference.cache
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\obj\Debug\sumx.csproj.CoreCompileInputs.cache
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\obj\Debug\sumx.exe
+C:\Users\MSI.DESKTOP-JOCRHVC\source\repos\sumx\obj\Debug\sumx.pdb
